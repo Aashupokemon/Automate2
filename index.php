@@ -1,6 +1,5 @@
 <?
 
-   print "Welcome to world of Automation"
-  
+   print "Welcome to world of Automation";
 ?>
 
