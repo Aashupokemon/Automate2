@@ -1,3 +1,4 @@
 <?
-   print "Welcome to my home";
+   print "Welcome to the world of Automation";
 ?>
+
